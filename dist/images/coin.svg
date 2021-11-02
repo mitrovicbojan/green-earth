@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#D7D5D5;stroke-width:12;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:#D7D5D5;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'MyriadPro-Bold';}
+	.st5{font-size:90px;}
+</style>
+<g id="XMLID_10_">
+	<ellipse id="XMLID_6_" class="st0" cx="200" cy="136" rx="83.7" ry="32"/>
+	<path id="XMLID_11_" class="st0" d="M283.7,178.2c0,17.7-37.5,32-83.7,32s-83.7-14.3-83.7-32"/>
+	<path id="XMLID_12_" class="st0" d="M283.7,223c0,17.7-37.5,32-83.7,32s-83.7-14.3-83.7-32"/>
+	<path id="XMLID_9_" class="st0" d="M116.3,136v128c0,17.7,37.5,32,83.7,32s83.7-14.3,83.7-32V136"/>
+</g>
+<g id="XMLID_5_">
+	<circle id="XMLID_1_" class="st1" cx="293.7" cy="276.2" r="66"/>
+	<rect id="XMLID_3_" x="268.4" y="239.2" class="st2" width="50.5" height="74"/>
+	<text id="XMLID_4_" transform="matrix(1 0 0 1 268.4167 303.1394)" class="st3 st4 st5">$</text>
+</g>
+</svg>
