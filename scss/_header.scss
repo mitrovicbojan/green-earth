@@ -1,0 +1,42 @@
+.header {
+    overflow: hidden;
+    background-color: $white-color;
+    padding: 20px 10px; 
+     
+
+    &__right {
+        float: right;
+        
+        & a{
+            color: $dark-grey;
+            text-transform: uppercase;
+            padding: 12px;
+            font-size: 18px;
+            line-height: 25px;
+            border-radius: 4px;
+
+            & img {
+                height: 15px; 
+                width: 30px;
+            }
+        }
+    }    
+    &__logo {
+        float:left;   
+             
+    }
+
+    &__left {        
+        float: left;
+            
+        & a{
+        color: $dark-blue;
+        text-align: center;
+        padding: 12px;
+        font-size: 18px;
+        line-height: 25px;
+        border-radius: 4px;        
+        }
+
+    }
+}
