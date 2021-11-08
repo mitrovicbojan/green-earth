@@ -35,6 +35,7 @@
     align-items: center;
     justify-content: center;
 
+
 }
 
 .details {
@@ -47,3 +48,10 @@
     margin: 10px;
 }
 
+@media (max-width:700px) {
+    .wraper {
+        display: flex;
+        flex-wrap: wrap;
+    
+    }
+}
