@@ -2,4 +2,25 @@
     background-color: $dark-blue;
     width: 100%;
     height: 70vh;
+
+    &-title {
+        color: $white-color;
+        position: absolute;
+        padding: 10px;
+        font-size: 20px;
+        margin: 100px;
+
+        a {
+            background-color: $dark-blue;
+            padding: 10px;
+            color: $white-color;
+        }
+    }
+
+    .carousel-images {
+        .slider img {
+            width: 100%;
+            height: 70vh;
+        }
+    }
 }
