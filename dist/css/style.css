@@ -253,6 +253,45 @@
   background-color: #FFFFFF;
 }
 
+.contact {
+  background-color: #012F9E;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contact-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.contact-box h3 {
+  padding: 10px;
+  color: #FFFFFF;
+}
+.contact-box .input-btn input {
+  border: none;
+  border-bottom: 2px solid #FFFFFF;
+  background-color: transparent;
+  color: #FFFFFF;
+  font-size: 16px;
+  padding: 10px;
+}
+.contact-box .input-btn a {
+  color: #FFFFFF;
+  font-size: 16px;
+}
+
+.smedia-links {
+  color: #FFFFFF;
+}
+.smedia-links a {
+  cursor: pointer;
+}
+
 * {
   box-sizing: border-box;
 }

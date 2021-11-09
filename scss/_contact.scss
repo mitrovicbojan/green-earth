@@ -1,0 +1,41 @@
+.contact {
+    background-color: $dark-blue;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.contact-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+    h3 {
+        padding: 10px;
+        color: $white-color;
+    }
+
+    .input-btn input{
+        border: none;
+        border-bottom: 2px solid $white-color;
+        background-color: transparent;
+        color: $white-color;
+        font-size: 16px;
+        padding: 10px;
+    }
+    .input-btn a {
+        color: $white-color;
+        font-size: 16px;
+    }
+    
+}
+.smedia-links {
+    color: $white-color;
+
+    a {
+        cursor: pointer;        
+    }
+    
+}
